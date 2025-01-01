@@ -63,14 +63,6 @@ const unemploymentData = {
         { year: 2018, rate: 7.1 },
         { year: 2019, rate: 7.3 },
         { year: 2020, rate: 7.5 }
-    ],
-    "Nepal": [
-        { year: 2015, rate: 4.0 },
-        { year: 2016, rate: 4.2 },
-        { year: 2017, rate: 4.5 },
-        { year: 2018, rate: 4.6 },
-        { year: 2019, rate: 4.8 },
-        { year: 2020, rate: 5.0 }
     ]
 };
 
