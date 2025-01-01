@@ -1,1 +1,1 @@
-# economix
+# hackanomics_2025
